@@ -9,7 +9,6 @@ public class bomb_ : MonoBehaviour
     public Collider collider;
     public AudioSource _as;
     public ParticleSystem _ps; 
-    public float some;
 
 
 
