@@ -41,7 +41,19 @@ public class corn : MonoBehaviour
                 change.mesh=new_mesh; 
                 transform.localScale*=1.0f; 
                 if(Random.Range(0,101) >60) _as.Play();
-                gun.fuel_GUI++;
+
+                if(platform.multiply_value<=5 && platform.point_value<=100)
+                {
+                    platform.point_value+=1;
+                }
+
+                if(platform.point_value>=100 && platform.multiply_value<5)
+                {
+                    platform.multiply_value++;
+                    platform.point_value=0;
+                }
+
+                gun.fuel_GUI+=1*platform.multiply_value;
                 if(!gun.finish) gun.fuel++;
                 Destroy(gameObject,5f); 
             } 
