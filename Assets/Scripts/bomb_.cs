@@ -33,6 +33,7 @@ public class bomb_ : MonoBehaviour
             _collider.isTrigger=false;
             _as.Play();
             _ps.Play();
+            platform.game_over=true;
             smr_0.enabled=false;
             smr_1.enabled=false;
             camera_.vib_bool=true;
