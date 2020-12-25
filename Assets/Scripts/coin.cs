@@ -18,7 +18,7 @@ public class coin : MonoBehaviour
     // Update is called once per frame
     void Update()
     { 
-        transform.GetChild(0).gameObject.transform.Rotate(0f,1f,0f);
+        transform.GetChild(0).gameObject.transform.Rotate(0f,3f,0f);
     } 
 
 

@@ -1,0 +1,599 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1143398588492919094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2796523152036760784}
+  m_Layer: 0
+  m_Name: purple_diamond_group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2796523152036760784
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1143398588492919094}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.18, z: 115.729996}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4935883765402408022}
+  - {fileID: 1312951766031025921}
+  - {fileID: 3234400493337738621}
+  - {fileID: 4027259558244792070}
+  - {fileID: 8355794846489187389}
+  - {fileID: 2319724457362453906}
+  - {fileID: 930883126573008790}
+  - {fileID: 9169171078232415260}
+  - {fileID: 7802203046859032435}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &426788973613304555
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.2999954
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &930883126573008790 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 426788973613304555}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1963536066393410172
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.300003
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &1312951766031025921 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 1963536066393410172}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2730743876212109312
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.300003
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &3234400493337738621 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 2730743876212109312}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2969624846458403055
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &2319724457362453906 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 2969624846458403055}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4531984834099575419
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.175186
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &4027259558244792070 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 4531984834099575419}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5582391134377859371
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.175186
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.300003
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &4935883765402408022 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 5582391134377859371}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7296277109675952654
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.175186
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.2999954
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &7802203046859032435 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 7296277109675952654}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8518588970435105121
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.2999954
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &9169171078232415260 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 8518588970435105121}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8859376714003470656
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2796523152036760784}
+    m_Modifications:
+    - target: {fileID: 165713609861371847, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_Name
+      value: Purple Chaos Emerald (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+--- !u!4 &8355794846489187389 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 650606365773679997, guid: 8e2e178a7e6a3a34e9e15cee5ce157ae, type: 3}
+  m_PrefabInstance: {fileID: 8859376714003470656}
+  m_PrefabAsset: {fileID: 0}
