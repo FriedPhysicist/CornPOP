@@ -6,6 +6,7 @@ public class coin : MonoBehaviour
 {
     public AudioSource _as;
     public MeshRenderer _smr;
+    public Rigidbody rb;
 
 
 
@@ -17,7 +18,7 @@ public class coin : MonoBehaviour
     // Update is called once per frame
     void Update()
     { 
-        if(protect_) transform.GetChild(0).gameObject.transform.Rotate(0f,1f,0f);
+        transform.GetChild(0).gameObject.transform.Rotate(0f,1f,0f);
     } 
 
 
@@ -27,10 +28,10 @@ public class coin : MonoBehaviour
         if(other.CompareTag("Player") && gun.popper && !protect_)
         { 
             _as.Play(); 
-            _smr.enabled=false;
             protect_=true;
-            gun.fuel_GUI+=40;
-            Destroy(gameObject,1f);
+            gun.fuel_GUI+=40; 
+            rb.AddForce(new Vector3(Random.Range(-3,0),Random.Range(0,3),Random.Range(2,6))*3,ForceMode.Impulse);
+            Destroy(gameObject,5f); 
         } 
     }
 }

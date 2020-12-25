@@ -6,20 +6,18 @@ public class bomb_ : MonoBehaviour
 {
     public MeshRenderer smr_0;
     public MeshRenderer smr_1;
-    public Collider collider;
+    public Collider _collider;
     public AudioSource _as;
     public ParticleSystem _ps; 
 
 
 
-
-    // Start is called before the first frame update
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+
     void Update()
     {
 
@@ -32,8 +30,9 @@ public class bomb_ : MonoBehaviour
     {
         if(other.CompareTag("Player") && gun.popper && !for_once)
         { 
-            collider.isTrigger=false;
+            _collider.isTrigger=false;
             _as.Play();
+            _ps.Play();
             smr_0.enabled=false;
             smr_1.enabled=false;
             camera_.vib_bool=true;

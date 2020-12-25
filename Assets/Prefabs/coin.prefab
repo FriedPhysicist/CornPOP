@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1930861181718704972}
   - component: {fileID: 5140487576975122858}
   - component: {fileID: 4241013800169891226}
+  - component: {fileID: -3890580684200623291}
   m_Layer: 0
   m_Name: coin
   m_TagString: Untagged
@@ -48,6 +49,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _as: {fileID: 4241013800169891226}
   _smr: {fileID: 758545423216787548}
+  rb: {fileID: -3890580684200623291}
 --- !u!65 &5140487576975122858
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -157,6 +159,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!54 &-3890580684200623291
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4489382490438087003}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
 --- !u!1 &6990425836619215624
 GameObject:
   m_ObjectHideFlags: 0
