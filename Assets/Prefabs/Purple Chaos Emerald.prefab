@@ -215,6 +215,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Purple Chaos Emerald
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5b40ff19d9c548b43be2dd2b725c2fd4, type: 3}
+      propertyPath: m_TagString
+      value: pop_corn
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b40ff19d9c548b43be2dd2b725c2fd4, type: 3}
 --- !u!1 &165713609861371847 stripped

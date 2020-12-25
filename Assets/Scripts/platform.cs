@@ -36,6 +36,12 @@ public class platform : MonoBehaviour
         game_over=false;
         game_over_canvas.enabled=false;
         next_level.enabled=false;
+        multiply_value=1;
+        point_value=0;
+        point_.value=0;
+        score_number.text=0.ToString();
+        sliced_number.text=0.ToString();
+        gun.finish=false;
     }
 
     void Update() 

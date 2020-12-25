@@ -18,8 +18,10 @@ public class gun : MonoBehaviour
 
 
     void Start()
-    {
-        
+    { 
+        fuel=0;
+        fuel_GUI=0;
+        finish=false;
     }
 
 
