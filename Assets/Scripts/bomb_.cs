@@ -8,7 +8,7 @@ public class bomb_ : MonoBehaviour
     public MeshRenderer smr_1;
     public Collider collider;
     public AudioSource _as;
-    public ParticleSystem _ps;
+    public ParticleSystem _ps; 
 
 
 
